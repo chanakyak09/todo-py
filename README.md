@@ -8,4 +8,4 @@ Project Name: MyTodo
 
 Author: Chanakya Khobragade
 
-Summary: MyTodo is a web based project made from Python3 Flask library. You can add your todo tasks & track it in this website.
+Summary: MyTodo is a web based project made from Python3 Flask library. You can add your todo tasks & track them in this website.
